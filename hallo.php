@@ -1,5 +1,6 @@
 <?php
 
-echo 'Hello World';
+echo 'This is an Home Page';
+echo 'For development purpose only';
 
 ?>
